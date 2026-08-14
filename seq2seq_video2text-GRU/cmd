@@ -1,0 +1,2 @@
+python model_test.py data_dir test_dir
+python bleu_eval.py final_output.txt

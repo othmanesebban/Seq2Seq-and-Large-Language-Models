@@ -1,0 +1,43 @@
+>>> Traitement: video\video31.mp4
+VideoManager is deprecated and will be removed.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected
+ behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Moviepy - Building video result\video31_with_scene_captions.mp4.
+MoviePy - Writing audio in video31_with_scene_captionsTEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+Moviepy - Writing video result\video31_with_scene_captions.mp4
+
+Moviepy - Done !
+Moviepy - video ready result\video31_with_scene_captions.mp4
+Captions exportés: result\video31_captions.json
+SRT exporté: result\video31.srt
+Vidéo légendée: result\video31_with_scene_captions.mp4
+Caption global: A woman is standing in front of a group of people and talking to them.
+
+>>> Traitement: video\video49.mp4
+VideoManager is deprecated and will be removed.
+Moviepy - Building video result\video49_with_scene_captions.mp4.
+MoviePy - Writing audio in video49_with_scene_captionsTEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+Moviepy - Writing video result\video49_with_scene_captions.mp4
+
+Moviepy - Done !
+Moviepy - video ready result\video49_with_scene_captions.mp4
+Captions exportés: result\video49_captions.json
+SRT exporté: result\video49.srt
+Vidéo légendée: result\video49_with_scene_captions.mp4
+Caption global: A group of people are playing soccer on a soccer field.
+
+>>> Traitement: video\video123.mp4
+VideoManager is deprecated and will be removed.
+Moviepy - Building video result\video123_with_scene_captions.mp4.
+MoviePy - Writing audio in video123_with_scene_captionsTEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+Moviepy - Writing video result\video123_with_scene_captions.mp4
+
+Moviepy - Done !
+Moviepy - video ready result\video123_with_scene_captions.mp4
+Captions exportés: result\video123_captions.json
+SRT exporté: result\video123.srt
+Vidéo légendée: result\video123_with_scene_captions.mp4
+Caption global: A man is speaking in front of a group of people in a kitchen.
