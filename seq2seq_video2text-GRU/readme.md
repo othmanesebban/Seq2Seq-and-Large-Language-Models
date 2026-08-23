@@ -18,8 +18,6 @@ This is the second assignment of CPSC 8810, [Clemson University Palemtto](https:
 
 ### Model architecture
 
-![alt text][image2]
-
 ### Details About How to Play
 
 run
