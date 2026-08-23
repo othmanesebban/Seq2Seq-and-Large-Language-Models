@@ -39,11 +39,11 @@ for output bleu score.
 
 ### Results
 
-* the bleu score is about 0.7, there is lots of ways to better it, such as making use of attention model, ...
+* the bleu-4 score is about 0.291, there is lots of ways to better it, such as making use of attention model, ...
 
-* detailed description please refer to the pdf report, thanks.
+* detailed description please refer to the our paper, thanks.
 
-* sample result for TZ860P4iTaM_15_28.avi
+
 
 ![alt text][image1]
 
