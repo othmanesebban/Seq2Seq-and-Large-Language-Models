@@ -1,4 +1,4 @@
-# SpaceTimeGPT: A Spatiotemporal Video Captioning Model
+# Neleac TimeSformer-GPT-2 pretrained model
 <div align="center">
   <img src="https://github.com/Neleac/video-caption/blob/main/model.JPG" width="75%" height="75%">
 </div>
@@ -10,4 +10,4 @@
 [VaTeX](https://eric-xw.github.io/vatex-website/index.html)
 
 ## Evaluation
-67.3 CIDEr on VATEX test set
+In Our Paper
