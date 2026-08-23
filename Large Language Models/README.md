@@ -1,6 +1,6 @@
 # Neleac TimeSformer-GPT-2 pretrained model
 <div align="center">
-  <img src="https://github.com/Neleac/video-caption/blob/main/model.JPG" width="75%" height="75%">
+  In Our Paper
 </div>
 
 ## Checkpoint
